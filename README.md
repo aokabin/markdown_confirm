@@ -1,28 +1,59 @@
-== README
+# Plant-Factory API ドミュメント
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![Badge Status](https://ci-as-a-service)
 
-Things you may want to cover:
+ラックからのセンサー情報をビジュアライズに表示・監視するためのWebサービス
 
-* Ruby version
+そのAPIの構成や使い方など
 
-* System dependencies
+## 概要
 
-* Configuration
+DescriptionDescriptionDescription
+DescriptionDescriptionDescription
+DescriptionDescriptionDescription
 
-* Database creation
+***DEMO:***
 
-* Database initialization
+![Demo](https://image-url.gif)
 
-* How to run the test suite
+## 仕様
 
-* Services (job queues, cache servers, search engines, etc.)
+### エンドポイント
 
-* Deployment instructions
+<https://hostname.com/api> 配下に各種APIを設置
 
-* ...
+### レスポンス
 
+JSON形式でレスポンスを返します。
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+## Requirement
+
+[kore](api/test.md) - とかね
+
+- Requirement
+- Requirement
+- Requirement
+
+## Usage
+
+1. Usage
+2. Usage
+3. Usage
+
+## Installation
+
+    $ git clone https://github.com/b4b4r07/awesome-tool
+
+## Anything Else
+
+AnythingAnythingAnything
+AnythingAnythingAnything
+AnythingAnythingAnything
+
+## Author
+
+[@b4b4r07](https://twitter.com/b4b4r07)
+
+## License
+
+[MIT](http://b4b4r07.mit-license.org)
